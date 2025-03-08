@@ -1,8 +1,8 @@
 # Factors which play a vital role in countries GDP.
 
-*Name: Swapan Gupta Chollati*
+*Name: SHIVA KUMAR BIRU*
 
-*University of Maryland Baltimore County*
+*INDIVIDUAL PROJECT*
 
 # Topics&Indicators:
 - Science& Technology
@@ -25,11 +25,11 @@
 - GDP Per Capita is a measurement of the GDP per person in a country’s population. It indicates that the amount of output or income per person in an economy can indicate average productivity or average living standards. 
 
 
-![Image](GDP%20PerCapita.png)
+![Image](https://github.com/shiva-kumar-biru/gdp-data-science-analysis/blob/main/Images/GDP%20PerCapita.png)
 - The above Pi chart shows us the GDP of different countries in the year 2015 with United Arab Emirates having the highest GDP of 28.3% and India the lowest with 2.39%.
 
 
-![Image](population%20of%20countries.png)
+![Image](https://github.com/shiva-kumar-biru/gdp-data-science-analysis/blob/main/Images/population%20of%20countries.png)
 - But when we compare the population of these countries China is leading the table whereas the United Arab Emirates is the lowest. This shows us that population also plays a key factor in the growth of GDP.
 - This shows us that a country should work according to the population in order to maintain its GDP at the top. The above graph shows that China despite being the most populated country its GDP is quite manageable when compared to other countries.
 
@@ -41,7 +41,7 @@ As mentioned earlier GDP is calculated with the countries economy. This means if
   - **Investment in Startups**: If a country spends some money on developing and implementing the ideas of startups to a larger extent the technology would rise and would help in GDP growth.
   - **Research & Development**: If a product is deployed for the consumer’s use which is developed by a country and being exported to different countries. It would play a vital role in the growth of the GDP of that country. 
 
-![Image](Research.png)
+![Image](https://github.com/shiva-kumar-biru/gdp-data-science-analysis/blob/main/Images/Research.png)
 
 - The above Bar graph shows us how different countries are spending on Research and Development. This shows that the United States is spending the most on Research.
 - China is one of the leading countries in technology which has the advancement of technology for the next 5 years. China also equally give importance to R&D for its GDP growth.
@@ -49,7 +49,7 @@ As mentioned earlier GDP is calculated with the countries economy. This means if
 
 # High Technology Exports affecting GDP:
 
-![Image](Exports.png)
+![Image](https://github.com/shiva-kumar-biru/gdp-data-science-analysis/blob/main/Images/Exports.png)
 
 - For example, Apple designs and manufactures its phones in the United States and also has a huge consumer base in Asian countries like India. This shows how Apple is contributing to the GDP of the United States.
 - China is the leading country in exporting manufactured technology goods to different countries. The above graph clearly indicates how China is rapidly increasing its export quality goods to different countries.
@@ -59,7 +59,7 @@ As mentioned earlier GDP is calculated with the countries economy. This means if
 
 # Scientific and Technical Journal Articles:
 
-![Image](Articles.png)
+![Image](https://github.com/shiva-kumar-biru/gdp-data-science-analysis/blob/main/Images/Articles.png)
 
 _ Based on the Journal Articles shows that China and the United States are both leading the competition with about 400k articles.
 - So, this shows how every country is contributing towards its economical growth in publishing journal articles.
